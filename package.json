@@ -1,0 +1,26 @@
+{
+  "name": "expressjs_tutorial",
+  "version": "1.0.0",
+  "description": "expressjs_tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixmiguelgc/expressjs_tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixmiguelgc/expressjs_tutorial/issues"
+  },
+  "homepage": "https://github.com/felixmiguelgc/expressjs_tutorial#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
